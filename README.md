@@ -16,11 +16,19 @@ Use your program to generate the following information:
 The number of word tokens in the database (after all text processing steps).
 
 The number of unique words in the database;
+
 The number of words that occur only once in the database;
+
 The average number of word tokens per document.
+
 For 30 most frequent words in the database, provide:
+
 TF, IDF, TF*IDF and  probabilities
+
 in a tabular format (rows = terms, columns = values)
+
 what to submit
+
 Document with answers to above 5 questions (pdf only).
+
 Github code (use shanusushmita to share on github)
