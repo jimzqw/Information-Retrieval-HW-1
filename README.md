@@ -12,7 +12,9 @@ What to text processing steps you should do?
 3. Use Porter Stemming
 
 Use your program to generate the following information:
+
 The number of word tokens in the database (after all text processing steps).
+
 The number of unique words in the database;
 The number of words that occur only once in the database;
 The average number of word tokens per document.
