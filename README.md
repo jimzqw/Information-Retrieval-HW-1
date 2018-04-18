@@ -44,3 +44,7 @@ The stop words file used in this project is created by Alir3Z4.
 
 Here is the link for more information:
 https://github.com/Alir3z4/stop-words/blob/master/english.txt
+
+# Author
+Zelun Jiang
+04/2018
