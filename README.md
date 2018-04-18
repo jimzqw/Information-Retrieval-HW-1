@@ -32,3 +32,15 @@ what to submit
 Document with answers to above 5 questions (pdf only).
 
 Github code (use shanusushmita to share on github)
+
+#Porter Stemmer Algorithm
+The Porter Stemmer Algorithm used in this project is created by Apache OpenNLP. 
+
+Here is the link for more information:
+https://opennlp.apache.org/
+
+#Stop Words
+The stop words file used in this project is created by Alir3Z4.
+
+Here is the link for more information:
+https://github.com/Alir3z4/stop-words/blob/master/english.txt
